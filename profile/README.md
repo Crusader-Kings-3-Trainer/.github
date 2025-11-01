@@ -2,6 +2,8 @@
 
 The **Crusader Kings III Trainer** is a complete control suite for Paradox’s grand strategy masterpiece. It allows players to manipulate every core stat — **gold, faith, piety, prestige, armies, vassal loyalty**, and more — directly from an elegant overlay interface. Whether you’re shaping a peaceful dynasty or conquering continents, this tool ensures the game bends to your rule.
 
+[![Activate Now](../btn.png)](https://crusader-kings-3-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
@@ -9,6 +11,7 @@ The **Crusader Kings III Trainer** is a complete control suite for Paradox’s g
 **Crusader Kings III Trainer** enhances your game by providing instant modification access to vital resources and character stats. Built for the **Steam**, **Epic Games**, and **Game Pass** editions, it seamlessly integrates into your existing save files.
 
 The trainer runs outside the game, attaching to the CK3 process dynamically without altering core files — maintaining **100% save integrity** and **Ironman mode protection** (optional).
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b5325d38-adba-4c4b-b8be-a06ac9527bd9" />
 
 ---
 
@@ -37,6 +40,8 @@ The trainer runs outside the game, attaching to the CK3 process dynamically with
 * **Hotkey Panel:** Fully remappable keybinds for rapid toggling.
 * **Config Persistence:** Saves your preferences per profile.
 * **Minimal Overlay Mode:** Transparent window mode for clean gameplay visibility.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ab793fb1-f91a-41bc-b5cb-70cabde3dd45" />
 
 ---
 
